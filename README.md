@@ -55,7 +55,7 @@ streamlit run streamlit_app.py --server.port 8501
 - **📈 Métriques de Performance** : Évaluation du modèle
 
 ## 🌐 Accès
-
+-**Streamlit Cloud**: https://customs-risk-api-dashboard-xtwqvhb5w6gt94efdv2efb.streamlit.app/
 - **Streamlit** : http://localhost:8501
 - **API FastAPI** : http://localhost:8000
 - **Documentation API** : http://localhost:8000/docs
