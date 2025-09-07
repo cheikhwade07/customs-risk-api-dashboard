@@ -2,6 +2,7 @@ fastapi
 plotly
 uvicorn
 pydantic
+seaborn
 joblib
 pandas
 numpy
