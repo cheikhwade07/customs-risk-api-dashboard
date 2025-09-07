@@ -471,7 +471,7 @@ if df is not None:
         # URL de l'API
         api_url = st.text_input(
             "URL de l'API:", 
-            value="http://localhost:8000/predict-circuit"
+            value="https://customs-risk-api.onrender.com"
         )
         
         # Formulaire de saisie avec de vraies valeurs
