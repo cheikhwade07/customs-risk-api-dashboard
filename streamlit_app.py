@@ -30,6 +30,7 @@ st.set_page_config(
 # CSS personnalisé pour améliorer l'apparence
 st.markdown("""
 <style>
+     body { background-color: white; color: black; }
     .main-header {
         background: linear-gradient(90deg, #1e3a8a 0%, #3b82f6 100%);
         padding: 1rem;
