@@ -1,4 +1,5 @@
 fastapi
+plotly
 uvicorn
 pydantic
 joblib
